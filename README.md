@@ -1,73 +1,71 @@
 # 🚗 Matchars Car Rental System
 
-[Demo Site(Front-end ONLY 🌐](https://matchars-car-rental.vercel.app)  
-[Project Repository 📦](https://github.com/MrCoolGh/MatcharsCarRental)
+[🌐 Live Site](https://matchars-car-rental.vercel.app)  
+[📦 GitHub Repository](https://github.com/MrCoolGh/MatcharsCarRental)
 
 ## 📌 Project Overview
 
-**Matchars Car Rental System** is a web-based application designed to manage car rental operations efficiently. Developed as part of the **DCIT 208 – Software Engineering** course at the **University of Ghana**, this project involves building a real-world system for a real client. It covers core software engineering principles, including requirements gathering, UI/UX design, implementation, testing, and deployment.
+**Matchars Car Rental System** is a web-based application designed to streamline the process of renting vehicles. Developed as part of the **DCIT 208 – Software Engineering** course at the **University of Ghana**, this project involves delivering a real software solution to a real-world client.
 
-## 🎯 Features
+The system offers users the ability to view available cars, register, make bookings, and receive confirmations, while admins can manage cars, customers, and rental data securely.
 
-- 🔍 **View Available Cars**  
-- 🧾 **Book a Car Online**  
-- 👤 **Customer Login & Registration**  
-- 📅 **Manage Bookings and Dates**  
-- 💳 **Payment Integration (simulated)**  
-- 🛠️ **Admin Dashboard** for managing cars, bookings, and users
+## 🎯 Key Features
+
+- 🚘 View available cars and details
+- 🧾 Book a car online with date & time selections
+- 👤 User registration and authentication
+- 📊 Admin dashboard to manage bookings, users, and vehicles
+- 🛡️ Security and database best practices
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express (coming soon)  
-- **Database:** Firebase / MongoDB (based on implementation)  
-- **Hosting:** Vercel  
-- **Tools:** Git, GitHub, Figma, Vite
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Backend:** Laravel (PHP Framework)  
+- **Database:** MySQL  
+- **Deployment:** Vercel (Frontend), Laravel Hosting (Backend)  
+- **Tools Used:** Git, GitHub, VS Code, Figma
+
+## 👥 Team Members
+
+| Name                   | Role                     |
+|------------------------|--------------------------|
+| Dwamena Patrick        | Full-Stack Developer / Project Manager |
+| Richardson Jerry John | DevOps Engineer          |
+| Isabella Baapogma     | Frontend Developer       |
+| Priscilla Mankoe      | UI/UX Designer           |
+| Acquah Stephen         | Backend Developer        |
+| Michael Hodor          | Security Engineer        |
+| Edwige Gbassi          | Database Engineer        |
 
 ## 📸 Screenshots
 
-> Below are sample screenshots of the system. *(Make sure to upload images in the repo under `/assets` or `/screenshots` folder and update the image links.)*
-
-### 1. 🏠 Home Page
+### 1. 🏠 Home Page  
 ![Home Page](./screenshots/home.png)
 
-### 2. 🚘 Car Listings
+### 2. 🚘 Car Listings  
 ![Car Listings](./screenshots/car-listings.png)
 
-### 3. 📄 Car Details Page
+### 3. 📄 Car Details Page  
 ![Car Details](./screenshots/car-details.png)
 
-### 4. 🧾 Booking Form
-![Booking Page](./screenshots/booking.png)
+### 4. 🧾 Booking Form  
+![Booking Form](./screenshots/booking.png)
 
-### 5. 👤 User Registration
+### 5. 👤 User Registration  
 ![User Registration](./screenshots/register.png)
 
-### 6. 🔐 Login Page
+### 6. 🔐 Login Page  
 ![Login Page](./screenshots/login.png)
 
-### 7. 📅 Booking Summary
+### 7. 📅 Booking Summary  
 ![Booking Summary](./screenshots/booking-summary.png)
 
-### 8. ⚙️ Admin Dashboard (if available)
+### 8. ⚙️ Admin Dashboard  
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
 
-## 🚀 How to Run Locally
+## 📄 License
+This project is for educational purposes under the DCIT 208 course and is not licensed for commercial use at this time.
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/MrCoolGh/MatcharsCarRental.git
-cd MatcharsCarRental
-
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/MrCoolGh/MatcharsCarRental.git
-cd MatcharsCarRental
 
 
 
