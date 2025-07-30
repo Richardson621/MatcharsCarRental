@@ -43,13 +43,13 @@ The system offers users the ability to view available cars, register, make booki
 ![Home Page](./screenshots/home.png)
 
 ### 2. ⚙️ Admin And Customer Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/dashboard.jpg)
 
 ### 3. 🚘 Car Listings  
 ![Car Listings](./screenshots/car-listings.png)
 
 ### 4. 📅 Manage Bookings  
-![Manage Bookings](./screenshots/manage-bookings.png)
+![Manage Bookings](./screenshots/manage-b)
 
 ### 5. 🧾 My Bookings (User View)  
 ![My Bookings](./screenshots/my-bookings.png)
