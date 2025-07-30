@@ -40,37 +40,37 @@ The system offers users the ability to view available cars, register, make booki
 ## 📸 Screenshots
 
 ### 1. 🏠 Home Page  
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home.jpg)
 
 ### 2. ⚙️ Admin And Customer Dashboard
 ![Admin Dashboard](./screenshots/dashboard.jpg)
 
 ### 3. 🚘 Car Listings  
-![Car Listings](./screenshots/car-listings.png)
+![Car Listings](./screenshots/cars.jpg)
 
 ### 4. 📅 Manage Bookings  
-![Manage Bookings](./screenshots/manage-b)
+![Manage Bookings](./screenshots/managebooking.jpg)
 
 ### 5. 🧾 My Bookings (User View)  
-![My Bookings](./screenshots/my-bookings.png)
+![My Bookings](./screenshots/bookings.jpg)
 
 ### 6. 👥 Manage Users  
-![Manage Users](./screenshots/manage-users.png)
+![Manage Users](./screenshots/manageuser.jpg)
 
 ### 7. 🚘 Manage Cars  
-![Manage Cars](./screenshots/manage-cars.png)
+![Manage Cars](./screenshots/managecar.jpg)
 
 ### 8. 💬 In-App Chat  
 ![Chat](./screenshots/chat.png)
 
 ### 9. ✏️ Edit Profile  
-![Edit Profile](./screenshots/edit-profile.png)
+![Edit Profile](./screenshots/edit.jpg)
 
 ### 10. 👤 User Registration  
-![User Registration](./screenshots/register.png)
+![User Registration](./screenshots/reg.jpg)
 
 ### 11. 🔐 Login Page  
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/login.jpg)
 
 
 ## 📄 License
