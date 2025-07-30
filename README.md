@@ -60,10 +60,10 @@
 git clone https://github.com/MrCoolGh/MatcharsCarRental.git
 cd MatcharsCarRental
 
-```bash
+2. **Install dependencies:**
 npm install
 
-```bash
+3. **Run the app:**
 npm run dev
 
 
