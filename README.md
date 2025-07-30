@@ -22,8 +22,8 @@ The system offers users the ability to view available cars, register, make booki
 - **Frontend:** HTML, CSS, Bootstrap  
 - **Backend:** Laravel (PHP Framework)  
 - **Database:** MySQL  
-- **Deployment:** Vercel (Frontend), Laravel Hosting (Backend)  
-- **Tools Used:** Git, GitHub, VS Code, Figma
+- **Deployment:** Not yet 
+- **Tools Used:** Git, GitHub, VS Code, Figma, IntelliJ
 
 ## 👥 Team Members
 
@@ -42,26 +42,36 @@ The system offers users the ability to view available cars, register, make booki
 ### 1. 🏠 Home Page  
 ![Home Page](./screenshots/home.png)
 
-### 2. 🚘 Car Listings  
+### 2. ⚙️ Admin And Customer Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+### 3. 🚘 Car Listings  
 ![Car Listings](./screenshots/car-listings.png)
 
-### 3. 📄 Car Details Page  
-![Car Details](./screenshots/car-details.png)
+### 4. 📅 Manage Bookings  
+![Manage Bookings](./screenshots/manage-bookings.png)
 
-### 4. 🧾 Booking Form  
-![Booking Form](./screenshots/booking.png)
+### 5. 🧾 My Bookings (User View)  
+![My Bookings](./screenshots/my-bookings.png)
 
-### 5. 👤 User Registration  
+### 6. 👥 Manage Users  
+![Manage Users](./screenshots/manage-users.png)
+
+### 7. 🚘 Manage Cars  
+![Manage Cars](./screenshots/manage-cars.png)
+
+### 8. 💬 In-App Chat  
+![Chat](./screenshots/chat.png)
+
+### 9. ✏️ Edit Profile  
+![Edit Profile](./screenshots/edit-profile.png)
+
+### 10. 👤 User Registration  
 ![User Registration](./screenshots/register.png)
 
-### 6. 🔐 Login Page  
+### 11. 🔐 Login Page  
 ![Login Page](./screenshots/login.png)
 
-### 7. 📅 Booking Summary  
-![Booking Summary](./screenshots/booking-summary.png)
-
-### 8. ⚙️ Admin Dashboard  
-![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ## 📄 License
 This project is for educational purposes under the DCIT 208 course and is not licensed for commercial use at this time.
