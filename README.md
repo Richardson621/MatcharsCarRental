@@ -1,6 +1,6 @@
 # 🚗 Matchars Car Rental System
 
-[Live Site 🌐](https://matchars-car-rental.vercel.app)  
+[Demo Site(Front-end ONLY 🌐](https://matchars-car-rental.vercel.app)  
 [Project Repository 📦](https://github.com/MrCoolGh/MatcharsCarRental)
 
 ## 📌 Project Overview
@@ -59,3 +59,11 @@
 ```bash
 git clone https://github.com/MrCoolGh/MatcharsCarRental.git
 cd MatcharsCarRental
+
+npm install
+
+npm run dev
+
+👨‍💻 Project Team\
+
+
