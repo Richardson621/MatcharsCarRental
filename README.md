@@ -61,7 +61,7 @@ The system offers users the ability to view available cars, register, make booki
 ![Manage Cars](./screenshots/managecar.jpg)
 
 ### 8. 💬 In-App Chat  
-![Chat](./screenshots/chat.png)
+![Chat](./screenshots/chat.jpg)
 
 ### 9. ✏️ Edit Profile  
 ![Edit Profile](./screenshots/edit.jpg)
