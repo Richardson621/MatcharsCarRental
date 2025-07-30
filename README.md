@@ -60,11 +60,14 @@
 git clone https://github.com/MrCoolGh/MatcharsCarRental.git
 cd MatcharsCarRental
 
-2. **Install dependencies:**
-npm install
 
-3. **Run the app:**
-npm run dev
+## 🚀 How to Run Locally
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/MrCoolGh/MatcharsCarRental.git
+cd MatcharsCarRental
 
 
 
