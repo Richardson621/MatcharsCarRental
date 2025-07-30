@@ -60,10 +60,11 @@
 git clone https://github.com/MrCoolGh/MatcharsCarRental.git
 cd MatcharsCarRental
 
+```bash
 npm install
 
+```bash
 npm run dev
 
-👨‍💻 Project Team\
 
 
