@@ -495,8 +495,9 @@
                             <img src="../img/team-4.jpg" alt="User Avatar" class="rounded-circle" style="width: 40px; height: 40px; object-fit: cover;">
                         </a>
                         <div class="dropdown-menu mt-2">
-                            <a href="../admin/admin_dashboard.html" class="dropdown-item">Dashboard</a>
-                            <a href="index.html" class="dropdown-item">Log out</a>
+                            <a href="../manager/manager_dashboard.html" class="dropdown-item" @click="showMobileNav = false">Manager Dashboard</a>
+                <a href="../customer/manager_dashboard.html" class="dropdown-item" @click="showMobileNav = false">Customer Dashboard</a>
+                <a href="./all_users/sign_in.html" class="dropdown-item" @click="showMobileNav = false">Log out</a>
                         </div>
                     </div>
                 </div>
@@ -1427,6 +1428,7 @@
 
 
 </html>
+
 
 
 
